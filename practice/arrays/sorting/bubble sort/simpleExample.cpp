@@ -23,11 +23,14 @@ int main()
         for(int j=0; j<=i; j++)
         {
             if(nums[j] > nums[j+1])
-            swap(nums[j], nums[j+1]);
-            swapped=1;
+            {
+                swap(nums[j], nums[j+1]);
+                swapped=1;
+            }
         }
 
         if(swapped == 0)
+        cout<<endl<<"No swapping done";
         break;
     }
 

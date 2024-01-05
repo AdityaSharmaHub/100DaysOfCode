@@ -3,12 +3,20 @@ using namespace std;
 
 int main()
 {
-    int arr[6] = {12, 2, 5, 1, 3, 10};
+    int arr[1000];
+    int size;
 
-    for(int i=0; i<5; i++)
+    cout<<"Enter the size of the array: ";
+    cin>>size;
+
+    cout<<"Enter the elements: ";
+    for(int i=0; i<size; i++)
+    cin>>arr[i];
+
+    for(int i=0; i<size-1; i++)
     {
         int index = i;
-        for(int j=i+1; j<6; j++)
+        for(int j=i+1; j<size; j++)
         {
             if(arr[j] < arr[index])
             {
@@ -19,8 +27,8 @@ int main()
         swap(arr[i], arr[index]);
     }
 
-    for(int i=0; i<6; i++)
+    for(int i=0; i<size; i++)
     {
-        cout<<arr[i]<<" ";
+        cout<<"Sorted array: "<<arr[i]<<" ";
     }
 }

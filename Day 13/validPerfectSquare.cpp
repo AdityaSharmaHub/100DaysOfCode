@@ -21,6 +21,7 @@ bool isPerfectSquare(int num) {
 
 int main()
 {
-    
+    int num=16;
+    cout<<isPerfectSquare(num);
     return 0;
 }

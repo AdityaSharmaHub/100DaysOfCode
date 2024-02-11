@@ -1,0 +1,23 @@
+🚀 𝗗𝗮𝘆 𝟰𝟭/𝟭𝟬𝟬 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 ✅ of #100daysofcode
+🚀 Excited to share my latest project built with 𝗡𝗲𝘅𝘁.𝗷𝘀, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, 𝗮𝗻𝗱 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱 𝗖𝗦𝗦! 🎉
+
+I've just completed building a dynamic 𝗤𝘂𝗶𝘇 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 using the power of Next.js, enhanced with the type safety of TypeScript, and styled with the elegance of Tailwind CSS.
+
+🧠 With a user-friendly interface, this quiz app challenges users with a variety of questions across different categories. Whether you're testing your knowledge of trivia, science, history, or more, this app has got you covered!
+
+👨‍💻 Leveraging the flexibility of Next.js, the app seamlessly navigates between questions, tracks your progress, and delivers instant feedback on your answers. Plus, with TypeScript, rest assured your code is robust and free of runtime errors.
+
+💅 Styled with Tailwind CSS, the app not only looks sleek but also scales beautifully across devices, ensuring an optimal user experience on desktops, tablets, and mobile devices.
+
+📌 Project Link - https://lnkd.in/d2vQp8Ch
+📌 GitHub Link - https://lnkd.in/dEstthXJ
+
+🎯 𝗖𝗼𝗱𝗶𝗻𝗴 𝗣𝗿𝗼𝗳𝗶𝗹𝗲𝘀 -
+🔗 LeetCode: https://lnkd.in/d4aGHQUi
+🔗 GeeksforGeeks: https://lnkd.in/dT-aSEvA
+
+Feel free to like, comment, and share! I'm always open to feedback and suggestions for future improvements. Let's keep building awesome things together! 💻✨
+
+Happy Coding ✌
+
+#NextJS #TypeScript #TailwindCSS #QuizApp #WebDevelopment #Developer #LearningAndDevelopment #FrontendDevelopment

@@ -25,7 +25,7 @@ void parenthesis(int n, int left, int right, vector<string>& ans, string &temp)
     }
 }
 
-string generateParenthesis(int n) {
+vector<string> generateParenthesis(int n) {
     vector<string> ans;
     string temp;
     parenthesis(n, 0, 0, ans, temp);

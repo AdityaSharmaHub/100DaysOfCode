@@ -12,6 +12,9 @@ class Animal
     {
         cout<<"HuHu\n";
     }
+
+    // virtual void speak() = 0; // pure virtual function
+    // Abstract class - Iska object kabhi create nhi hoga
 };
 
 class Dog: public Animal

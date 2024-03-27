@@ -1,0 +1,5 @@
+🎯 𝗧𝗼𝗽𝗶𝗰𝘀 𝗥𝗲𝘃𝗶𝘀𝗲𝗱 -
+📌 Traversal and Insertion in a Linked List
+📌 Deletion in a Singly Linked List
+📌 How to Reverse, Find Middle and Rotate a Linked List
+📌 Solved Problems on Remove the Kth Node, Rotate List and Palindrome List

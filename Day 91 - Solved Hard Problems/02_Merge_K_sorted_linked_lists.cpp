@@ -64,6 +64,31 @@ class Solution{
         
         return head;
     }
+
+
+
+    // ------------ Method 2 -----------------
+
+    void mergeSort(Node *arr[], int start, int end)
+    {
+        if(start <= end)
+        return;
+
+        int mid = start + (end - start)/2;
+        // Left part
+        mergeSort(arr, start, mid);
+        // Right part
+        mergeSort(arr, mid+1, end);
+        arr[start] = merge(arr[start], arr[mid+1]);
+    }
+
+    //Function to merge K sorted linked list.
+    Node * mergeKLists(Node *arr[], int K)
+    {
+        mergeSort(arr, 0, K-1);
+
+        return arr[0];
+    }
 };
 
 int main()

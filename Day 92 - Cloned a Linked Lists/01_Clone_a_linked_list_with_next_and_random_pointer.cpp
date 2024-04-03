@@ -1,4 +1,5 @@
 #include<iostream>
+#include<unordered_map>
 using namespace std;
 
 // Clone a linked list with next and random pointer
@@ -65,7 +66,31 @@ Node *copyList(Node *head)
     }
     
     return headCopy;
-    }
+
+    // Another method
+    // unordered_map<Node*, Node*>m;
+
+    // // fill the value inside the map
+    // while(temp)
+    // {
+    //     m[temp] = tailCopy;
+    //     tailCopy = tailCopy->next;
+    //     temp = temp->next;
+    // }
+
+    // // Assign random pointer to clone linked list
+    // tailCopy = headCopy;
+    // temp = head;
+
+    // while(temp)
+    // {
+    //     tailCopy->arb = m[temp->arb];
+    //     tailCopy = tailCopy->next;
+    //     temp = temp->next;
+    // }
+
+    // return headCopy;
+}
 
 int main()
 {

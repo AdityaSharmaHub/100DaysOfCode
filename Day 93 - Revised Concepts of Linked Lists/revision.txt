@@ -1,0 +1,9 @@
+🎯 𝗧𝗼𝗽𝗶𝗰𝘀 𝗖𝗼𝘃𝗲𝗿𝗲𝗱 - 
+📌 Creation, Insertion, Deletion in Doubly Linked List
+📌 How to Remove duplicate elements from the list
+📌 Merge two sorted linked list
+📌 Detect and Find the length of the loop
+📌 Remove the loop from a linked list
+📌 Reverse a Linked List
+📌 Flattering a linked list
+📌 Clone a Linked List

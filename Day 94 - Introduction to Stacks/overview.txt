@@ -1,0 +1,20 @@
+
+Definition of Stack:- 
+ It is a linear data structure, in which insertion and deletion are only allowed at the end i.e. called top of the stack.
+
+ When we define a stack as an abstract datatype, then we are only interested in know the stack operation from user point of view.
+
+ It simply means, we are not interested in knowing the details, we are only interested in what type of Output we can perform.
+
+Operations in Stack:- 
+ - push 
+ - pop 
+ - top (peek)
+ - size
+ - empty
+
+It follows LIFO (Last-in-first-out) method to perform operations.
+
+
+
+
